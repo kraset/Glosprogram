@@ -18,7 +18,6 @@ class AddWordsPanel extends Panel {
 
     /*
      * Visa alla ord.
-     * Man kan sedan göra testet igen eller starta om hela appen.
      */
     render(html) {
         return html`<div>
